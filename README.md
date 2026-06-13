@@ -8,7 +8,7 @@ La actividad está diseñada para 1.º de Bachillerato y trabaja contenidos de e
 
 ## Archivos incluidos
 
-- [Ver carpeta de expedientes](carpeta_expedientes_detectives): documento final de la actividad.
+- [Ver carpeta de expedientes](carpeta_expedientes_detectives.md): documento final de la actividad.
 - `rubrica.pdf`: rúbrica de evaluación del caso práctico.
 - `imagenes/`: recursos visuales utilizados en la actividad.
 
