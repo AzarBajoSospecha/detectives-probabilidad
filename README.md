@@ -9,6 +9,7 @@ La actividad está diseñada para 1.º de Bachillerato y trabaja contenidos de e
 ## Archivos incluidos
 
 - [Ver carpeta de expedientes](carpeta_expedientes_detectives.md): documento final de la actividad.
+- [Introducción motivadora de la actividad para el alumnado](introduccion.md): explicación de la actividad para el alumnado.
 - [Ver árbol guiado](arbol_guiado_alumnado.md): diagrama de árbol guiado para el Experimento A
 (extracción sin reemplazamiento) para el alumnado..
 - [Ver diagrama de árbol explicación docentes](diagrama_arbol_docente.md): diagrama de árbol guiado para docente con soluciones.
